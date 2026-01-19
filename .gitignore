@@ -1,0 +1,66 @@
+# =========================
+# LaTeX build artifacts
+# =========================
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.run.xml
+*.bcf
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.dvi
+*.ps
+*.pdfsync
+*.idx
+*.ilg
+*.ind
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.ist
+*.xdy
+*~
+
+# =========================
+# Common build/output dirs
+# =========================
+build/
+out/
+dist/
+
+# =========================
+# OS-generated files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =========================
+# Editor/IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Optional: ignore auto-generated PDFs (uncomment if desired)
+# =========================
+# *.pdf
