@@ -9,9 +9,10 @@ If you have a LaTeX distribution installed:
 pdflatex cloud-computing-book-mapping.tex
 # run twice if needed for TOC references
 pdflatex cloud-computing-book-mapping.tex
-Files
-cloud-computing-book-mapping.tex - main LaTeX source
+````
 
-cloud-computing-book-mapping.pdf - compiled output (optional to track)
+## Files
 
-original/ - original source/reference PDF(s)
+* `cloud-computing-book-mapping.tex` - main LaTeX source
+* `cloud-computing-book-mapping.pdf` - compiled output (optional to track)
+* `original/` - original source/reference PDF(s)
